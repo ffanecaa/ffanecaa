@@ -4,7 +4,6 @@
 
 
 <h2 align="left">Hola 👋! soy Marta....</h2>
-<img align="left" height="180"  margin-top="100" src="martaLogo.webp"   />
 
 <p align="left">Soy una desarrolladora web con sede en Santiago, enfocada en aprender y crecer en el mundo de la programación.<br>- 💻 Desarrollo web con tecnologías como Java, Spring Boot, Angular, React.js, CSS, HTML, y más.<br>- 🎨 Apasionada por la historia del arte, el cine, la música y los videojuegos.<br>- 🚀 Siempre en busca de nuevos desafíos y oportunidades para aprender.</p>
 
